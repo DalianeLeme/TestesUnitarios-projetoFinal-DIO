@@ -1,0 +1,14 @@
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\bin\Debug\net8.0\CalculadoraProjeto.exe
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\bin\Debug\net8.0\CalculadoraProjeto.deps.json
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\bin\Debug\net8.0\CalculadoraProjeto.runtimeconfig.json
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\bin\Debug\net8.0\CalculadoraProjeto.dll
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\bin\Debug\net8.0\CalculadoraProjeto.pdb
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\obj\Debug\net8.0\CalculadoraProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\obj\Debug\net8.0\CalculadoraProjeto.AssemblyInfoInputs.cache
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\obj\Debug\net8.0\CalculadoraProjeto.AssemblyInfo.cs
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\obj\Debug\net8.0\CalculadoraProjeto.csproj.CoreCompileInputs.cache
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\obj\Debug\net8.0\CalculadoraProjeto.dll
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\obj\Debug\net8.0\refint\CalculadoraProjeto.dll
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\obj\Debug\net8.0\CalculadoraProjeto.pdb
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\obj\Debug\net8.0\CalculadoraProjeto.genruntimeconfig.cache
+C:\Users\dalib\source\repos\DalianeLeme\CalculadoraProjeto\Calculadora\obj\Debug\net8.0\ref\CalculadoraProjeto.dll
